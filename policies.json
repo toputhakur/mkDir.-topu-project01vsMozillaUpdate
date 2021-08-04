@@ -1,0 +1,13 @@
+{
+  "policies": {
+    "DisableAppUpdate": true,
+    "DisableFirefoxStudies": true,
+    "DisablePocket": true,
+    "DisableSystemAddonUpdate": true,
+    "DisableTelemetry": true,
+    "ExtensionUpdate": false,
+    "Preferences": {
+      "security.ssl.errorReporting.enabled": false
+    }
+  }
+}
